@@ -29,7 +29,7 @@ let res = sum(2,3);
 // let result = add(4,5);
 // console.log(result);
 
-let u = 'Sahithi';
+let u = 'Vivek';
 function say(u){
     let str = 'stay';
     console.log(`Hello ${u}`);
