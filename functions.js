@@ -14,7 +14,7 @@ let str = greet1();
 function greet2(user){
     return `Hello ${user}`
 }
-let user = 'Sahithi';
+let user = 'Vivek';
 let str1 = greet2(user);
 // console.log(str1);
 
