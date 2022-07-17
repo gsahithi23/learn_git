@@ -1,3 +1,4 @@
+console.log("checking rebase in main");
 console.log("first commit");
 console.log("second commit");
 
