@@ -1,3 +1,6 @@
+console.log("trying squash");
+
+
 let input = 'name'
 let alien = {
     name : 'Sahithi',

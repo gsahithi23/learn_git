@@ -1,3 +1,7 @@
+console.log("first commit");
+console.log("second commit");
+
+
 console.log("Hello....!");
 console.log("Hello Sahithi");
 console.log("Welcome to Git");
