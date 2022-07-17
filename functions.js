@@ -14,7 +14,7 @@ let str = greet1();
 function greet2(user){
     return `Hello ${user}`
 }
-let user = 'Sahithi';
+let user = 'Sahithi Ganga';
 let str1 = greet2(user);
 // console.log(str1);
 
@@ -29,7 +29,7 @@ let res = sum(2,3);
 // let result = add(4,5);
 // console.log(result);
 
-let u = 'Sahithi';
+let u = 'Vivek';
 function say(u){
     let str = 'stay';
     console.log(`Hello ${u}`);
