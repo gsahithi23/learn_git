@@ -2,6 +2,7 @@ console.log("Changes made in functions");
 
 function greet(){
     console.log('hello sahithi');
+    console.log("GANGA")
 }
 // greet()
 
