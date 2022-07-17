@@ -5,8 +5,8 @@ let alien = {
     'work exp' : 2,
     laptop : {
         cpu : 'i7',
-        ram : 4,
-        brand1: 'Acer'
+        ram : 16,
+        brand1: 'Apple_Acer'
     }
 }
 
