@@ -9,6 +9,7 @@
 // val.unshift(1);//Add values at the begining 
 // console.log(val);
 val2 = [2,3,4,5,6];
+val1 = [2,3,5,6,7,8];
 console.log(val2.splice(2,1, 11, 15));
 console.log(val2)
 console.log(val2.push(8,10));
